@@ -3,8 +3,7 @@
 
 <!--Introduction-->
 <h2>Introduction</h2>
-<p>In this project, you'll learn how to build a MP3 Music Player App in Java! You can check out the full tutorial <a href="https://www.youtube.com/watch?v=xf0aH2K3oJ4">here</a>
-  , where I carefully go over the logic flow so that you can understand how this project is coded the way it was.
+<p>In this project, we'll learn how to build a MP3 Music Player App in Java!
 </p>
 
 <!--Technologies/Frameworks-->
@@ -36,5 +35,5 @@
 <!--Screenshots (GIFs/PNGs)-->
 <h2>Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/curadProgrammer/Java-Swing-MusicPlayer/blob/main/Screenshot_38.png" alt="Music Player App Screenshot">
+  <img src="https://github.com/Awais576/Music-Player-using-Java-Swing/blob/main/Screenshot_38.png" alt="Music Player App Screenshot">
 </p>
